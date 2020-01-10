@@ -1,0 +1,11 @@
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\bin\Debug\netcoreapp3.1\SIPTranslation.exe
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\bin\Debug\netcoreapp3.1\SIPTranslation.deps.json
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\bin\Debug\netcoreapp3.1\SIPTranslation.runtimeconfig.json
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\bin\Debug\netcoreapp3.1\SIPTranslation.runtimeconfig.dev.json
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\bin\Debug\netcoreapp3.1\SIPTranslation.dll
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\bin\Debug\netcoreapp3.1\SIPTranslation.pdb
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\obj\Debug\netcoreapp3.1\SIPTranslation.csprojAssemblyReference.cache
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\obj\Debug\netcoreapp3.1\SIPTranslation.AssemblyInfoInputs.cache
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\obj\Debug\netcoreapp3.1\SIPTranslation.AssemblyInfo.cs
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\obj\Debug\netcoreapp3.1\SIPTranslation.dll
+C:\Users\bcornwell\source\repos\SIPTranslation\SIPTranslation\obj\Debug\netcoreapp3.1\SIPTranslation.pdb
